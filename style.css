@@ -922,6 +922,7 @@ img {
 
     .search-icon_hidden {
         display: block;
+        margin-top: 5px;
     }
 
     .search-container {
