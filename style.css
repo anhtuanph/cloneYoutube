@@ -811,9 +811,7 @@ img {
         gap: 0;
     }
 
-    .logo {
-        margin-left: -20px;
-    }
+    
 
     .content {
         width: 100vw;
@@ -861,7 +859,6 @@ img {
 
     .icon-bar {
         opacity: 0;
-    position: relative;
     }
 
 
