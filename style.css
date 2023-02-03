@@ -984,4 +984,31 @@ img {
     .bell:hover::after{
         display: none;
     }
+
+    .bell-notify {
+        width: 300px;
+    }
+
+    .body-img_left {
+        width: 40px;
+        height: 40px;
+        margin-top: 5px;
+    }
+
+    .notify-body_content p {
+        -webkit-line-clamp: 3;
+    }
+
+    .notify-body_content span {
+
+        line-height: 32px;
+    }
+
+    .notify-body_content {
+        padding: 0 5px;
+    }
+
+    .notify-body_content span {
+
+    }
 }
