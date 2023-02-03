@@ -753,6 +753,10 @@ img {
     display: none;
 }
 
+.icon-bar-hidden {
+    display: none;
+}
+
 .overlay {
     display: none;
     position: fixed;
